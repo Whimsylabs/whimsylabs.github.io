@@ -1,4 +1,0 @@
-- ## Who are we?
-- Whimsylabs is a new Scottish Start-up company whose aim is to create a Fully functional virtual lab sandbox.
--
--
